@@ -1,0 +1,25 @@
+html,
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #fafafa;
+  line-height: 1.6;
+}
+.lead {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+.container {
+  margin: 50px auto;
+  max-width: 960px;
+}
+.demo {
+  font-weight: bold;
+  font-size: 3rem;
+}
+.visitor{
+    padding: 30px;
+    color: #ffffff;
+    background-color: rgb(65, 64, 63);
+}
